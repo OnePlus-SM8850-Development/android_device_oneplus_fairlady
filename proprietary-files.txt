@@ -5,7 +5,7 @@
 odm/etc/acdbdata/FTM/acdb_cal.acdb
 odm/etc/acdbdata/MOS/acdb_cal.acdb
 odm/etc/acdbdata/Audio_Parameter_Version.txt
-odm/etc/acdbdata/acdb_cal.acdb
+odm/etc/acdbdata/acdb_cal.acdb:vendor/etc/acdbdata/canoe_mtp/acdb_cal.acdb
 odm/etc/acdbdata/dw_ve_enpuv6.eai
 odm/etc/acdbdata/up_ve_enpuv6_ha.eai
 odm/etc/acdbdata/up_ve_enpuv6_hh.eai
