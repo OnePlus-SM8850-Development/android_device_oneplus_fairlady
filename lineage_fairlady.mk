@@ -23,8 +23,8 @@ PRODUCT_MODEL := PLZ110
 PRODUCT_GMS_CLIENTID_BASE := android-oneplus
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    BuildDesc="qssi-user 16 BP2A.250605.015 1776958906661 release-keys" \
-    BuildFingerprint=OnePlus/PLZ110/OP64DDL1:16/BP2A.250605.015/B.46eb57a-23603bf-236400e:user/release-keys \
+    BuildDesc="qssi-user 16 BP2A.250605.015 1778692547865 release-keys" \
+    BuildFingerprint=OnePlus/PLZ110/OP64DDL1:16/BP2A.250605.015/B.3a6dfa9-1699340-169933c:user/release-keys \
     DeviceName=OP64DDL1 \
     DeviceProduct=PLZ110 \
     SystemDevice=OP64DDL1 \
