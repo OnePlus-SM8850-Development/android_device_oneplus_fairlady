@@ -33,10 +33,6 @@ lib_fixups: lib_fixups_user_type = {
     **lib_fixups,
     (
         'libhcsutils',
-        'vendor.oplus.hardware.camera.aon-V1-ndk',
-        'vendor.oplus.hardware.camera_rfi-V3-ndk',
-        'vendor.oplus.hardware.cammidasservice-V1-ndk',
-        'vendor.oplus.hardware.sendextcamcmd-V2-ndk',
     ): lib_fixup_vendor_suffix,
 }
 
