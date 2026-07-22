@@ -1,5 +1,5 @@
 ## All proprietary files from this list, unless pinned and noted otherwise,
-## are from OnePlus 15T (PLZ110_16.0.8.300(CN01)).
+## are from OnePlus 15T (PLZ110_16.0.9.400(CN01)).
 
 # ACDB
 odm/etc/acdbdata/FTM/acdb_cal.acdb
@@ -651,6 +651,17 @@ odm/etc/camera/meishe_lut/black_gold.bin
 odm/etc/camera/meishe_lut/blackandwhite.cube.rgb.bin
 odm/etc/camera/meishe_lut/blackandwhite_0.cube.rgb.bin
 odm/etc/camera/meishe_lut/blackandwhite_1.cube.rgb.bin
+odm/etc/camera/meishe_lut/blackandwhite_HC_hdr_master.bin
+odm/etc/camera/meishe_lut/blackandwhite_HC_hdr_master_0.bin
+odm/etc/camera/meishe_lut/blackandwhite_HC_hdr_master_1.bin
+odm/etc/camera/meishe_lut/blackandwhite_HC_hdr_normal.bin
+odm/etc/camera/meishe_lut/blackandwhite_HC_hdr_normal_0.bin
+odm/etc/camera/meishe_lut/blackandwhite_HC_hdr_normal_1.bin
+odm/etc/camera/meishe_lut/blackandwhite_HC_master.bin
+odm/etc/camera/meishe_lut/blackandwhite_HC_normal.bin
+odm/etc/camera/meishe_lut/blackandwhite_HC_sdr.bin
+odm/etc/camera/meishe_lut/blackandwhite_HC_sdr_0.bin
+odm/etc/camera/meishe_lut/blackandwhite_HC_sdr_1.bin
 odm/etc/camera/meishe_lut/bright_coloured.bin
 odm/etc/camera/meishe_lut/ccd_base_cold.bin
 odm/etc/camera/meishe_lut/ccd_base_warm.bin
@@ -705,6 +716,14 @@ odm/etc/camera/meishe_lut/oplus-nightcity.cube.rgb.bin
 odm/etc/camera/meishe_lut/oplus-yellow-blue.cube.rgb.bin
 odm/etc/camera/meishe_lut/p4_1.cube.rgb.bin
 odm/etc/camera/meishe_lut/p4_3.cube.rgb.bin
+odm/etc/camera/meishe_lut/portra400_hdr_master_a_1.bin
+odm/etc/camera/meishe_lut/portra400_hdr_master_d_1.bin
+odm/etc/camera/meishe_lut/portra400_hdr_normal_a_1.bin
+odm/etc/camera/meishe_lut/portra400_hdr_normal_d_1.bin
+odm/etc/camera/meishe_lut/portra400_master.bin
+odm/etc/camera/meishe_lut/portra400_normal.bin
+odm/etc/camera/meishe_lut/portra400_sdr_gen_a_1.bin
+odm/etc/camera/meishe_lut/portra400_sdr_gen_d_1.bin
 odm/etc/camera/meishe_lut/rJ5g5vPWG
 odm/etc/camera/meishe_lut/red-red.cube.rgb.bin
 odm/etc/camera/meishe_lut/sky-blue.cube.rgb.bin
@@ -1567,6 +1586,19 @@ odm/etc/PanelChaplin/Dark_Eye_Protect_EsRGB.txt
 odm/etc/PanelChaplin/Dark_Eye_Protect_LsRGB.txt
 odm/etc/PanelChaplin/Dark_Eye_Protect_Nature.txt
 odm/etc/PanelChaplin/Dark_Eye_Protect_Vivid.txt
+odm/etc/PanelChaplin/Game_COMP3.txt
+odm/etc/PanelChaplin/Game_ColorInvert_Fliter.txt
+odm/etc/PanelChaplin/Game_FPS.txt
+odm/etc/PanelChaplin/Game_FPS_Fliter.txt
+odm/etc/PanelChaplin/Game_HighDynamicRange_Fliter.txt
+odm/etc/PanelChaplin/Game_MOBA.txt
+odm/etc/PanelChaplin/Game_MOBA_Fliter.txt
+odm/etc/PanelChaplin/Game_NightVision_Fliter.txt
+odm/etc/PanelChaplin/Game_OTOME.txt
+odm/etc/PanelChaplin/Game_OTOME_Fliter.txt
+odm/etc/PanelChaplin/Game_OldMovie_Fliter.txt
+odm/etc/PanelChaplin/Game_RPG.txt
+odm/etc/PanelChaplin/Game_Vivid_Fliter.txt
 odm/etc/PanelChaplin/Lut3D_311
 odm/etc/PanelChaplin/Lut3D_312
 odm/etc/PanelChaplin/panelchaplin
