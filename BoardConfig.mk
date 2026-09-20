@@ -20,13 +20,6 @@ TARGET_OTA_ASSERT_DEVICE := OP64DDL1
 # Display
 TARGET_SCREEN_DENSITY := 540
 
-# Kernel
-ifeq ($(USE_PREBUILT_KERNEL), true)
-include device/oneplus/fairlady-kernel/BoardConfig.mk
-else
-TARGET_KERNEL_ADDITIONAL_FLAGS += CONFIG_FAIRLADY_DTB=y
-endif
-
 # Properties
 TARGET_ODM_PROP += $(DEVICE_PATH)/odm.prop
 TARGET_SYSTEM_EXT_PROP += $(DEVICE_PATH)/system_ext.prop
